@@ -1,4 +1,4 @@
-# arduino-pid-pwm-regulator
+# Arduino-pid-pwm-regulator
 This project implements a closed-loop PID controller on an Arduino using analog voltage input. The system allows the user to input a target voltage (in volts), then adjusts a PWM output signal in real-time to achieve and maintain the target using a PID algorithm.
 ## Features
 
